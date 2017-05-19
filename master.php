@@ -1,1 +1,2 @@
-master
+<?php
+echo "master";
