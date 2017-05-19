@@ -1,4 +1,7 @@
 this is a hell.php
 this is not single man;
 hello laozhao!
-ni hao ,zhongguo !!!!!!!
+
+ I am idea !
+ 他会怎么合并呢！？？？
+
