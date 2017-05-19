@@ -1,3 +1,4 @@
-newworld
+<?php
+var_dump('0');
 
 echo '';
